@@ -12,7 +12,7 @@ author: ClearURLs
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About ClearURLs: "_posts/aboutme"
   Wiki: "https://github.com/ClearURLs/Addon/wiki"
   FAQ: "https://github.com/ClearURLs/Addon/wiki/FAQ"
 
