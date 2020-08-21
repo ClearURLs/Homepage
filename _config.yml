@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: ClearURLs
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 
 # Your name to show in the footer
-author: Some Person
+author: ClearURLs
 
 # --- List of links in the navigation bar --- #
 
