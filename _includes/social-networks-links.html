@@ -72,6 +72,18 @@
   </li>
 {%- endif -%}
 
+  {%- if site.social-network-links.github -%}
+  <li class="list-inline-item">
+    <a href="https://gitlab.com/{{ site.social-network-links.gitlab }}" title="GitLab">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-gitlab fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitLab</span>
+    </a>
+  </li>
+  {%- endif -%}
+
 {%- if site.social-network-links.twitter -%}
   <li class="list-inline-item">
     <a href="https://twitter.com/{{ site.social-network-links.twitter }}" title="Twitter">
