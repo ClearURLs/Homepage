@@ -13,6 +13,9 @@ Another common example are Amazon URLs. If you search for a product on Amazon yo
 Indeed most of the above URL is tracking code. Once ClearURLs has cleaned the address, it will look like this:
 https://www.amazon.com/dp/exampleProduct
 
+### Get the extension
+
+[<img src="https://blog.mozilla.org/addons/files/2020/04/get-the-addon-fx-apr-2020.svg" alt="for Firefox" height="60px">](https://addons.mozilla.org/firefox/addon/clearurls/) [<img src="https://gitlab.com/KevinRoebert/ClearUrls/-/raw/master/promotion/MEA-button.png" alt="for Edge" height="60px">](https://microsoftedge.microsoft.com/addons/detail/mdkdmaickkfdekbjdoojfalpbkgaddei) [<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png" alt="for Chrome" height="60px">](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
 
 ### Why use this extension as opposed to similar ones?
 
