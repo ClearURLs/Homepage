@@ -13,8 +13,8 @@ author: ClearURLs
 
 navbar-links:
   About: "about"
-  Wiki: "https://github.com/ClearURLs/Addon/wiki"
-  FAQ: "https://github.com/ClearURLs/Addon/wiki/FAQ"
+  Docs: "https://docs.clearurls.xyz"
+  FAQ: "https://docs.clearurls.xyz/latest/faq/"
 
 # --- Logo --- #
 
@@ -40,7 +40,7 @@ social-network-links:
   #facebook: deanattali
   github: ClearURLs
   gitlab: "KevinRoebert/ClearUrls"
-  twitter: clear_ur
+  twitter: clearurls
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
